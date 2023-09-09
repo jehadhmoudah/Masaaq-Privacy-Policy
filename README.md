@@ -1,96 +1,218 @@
-Privacy Policy for Masaaq
-At Masaaq, accessible from https://masaaq.net/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Masaaq and how we use it.
+Terms and Conditions for Masaaq - Educational Social Media Platform
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+1. Content Responsibility:
+By using Masaaq, you agree to comply with the following terms and conditions. Masaaq is an educational social media platform that aims to provide a platform for users to share educational content and engage in meaningful discussions. Users are solely responsible for the content they share on Masaaq, including but not limited to text, images, videos, documents, links, and any other media. Users must ensure that the content they share is accurate, reliable, and up-to-date. Masaaq cannot be held responsible for any misinformation or inaccuracies in the shared content.
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Masaaq. This policy is not applicable to any information collected offline or via channels other than this website.
+2. User Conduct:
+Users are required to maintain respectful and courteous behavior while using Masaaq. Any form of harassment, hate speech, discrimination, or abusive language towards other users will not be tolerated. Masaaq reserves the right to take necessary actions, including suspension or termination of user accounts, in cases of violations.
 
-Consent
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+3. Privacy and Security:
+Masaaq is committed to ensuring the privacy and security of its users. Users understand and agree to the collection and use of their personal information as outlined in Masaaq's privacy policy. Masaaq implements reasonable security measures to protect user data, but users acknowledge that no online platform can guarantee 100% security.
 
-Information we collect
-The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
+4. Account Responsibility:
+Users are solely responsible for their own accounts. It is the responsibility of users to keep their login credentials confidential and to notify Masaaq immediately in case of any unauthorized access to their accounts. Masaaq will not be held liable for any losses incurred due to unauthorized access or misuse of user accounts.
 
-If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
+5. Third-Party Resources:
+Masaaq may display advertisements, sponsored content, or links to third-party websites for informational or promotional purposes. Users understand and agree that Masaaq is not responsible for the accuracy, availability, or reliability of these third-party resources. Users access such resources at their own risk.
 
-When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
+6. Platform Changes and Disruptions:
+Masaaq reserves the right to modify, suspend, or terminate the platform, features, or services at any time, for any reason, without prior notice. Masaaq will make reasonable efforts to notify users of any significant changes or disruptions to the platform.
 
-How we use your information
-We use the information we collect in various ways, including to:
+7. Modifications to Terms:
+These terms and conditions are subject to change, and users are encouraged to review them periodically. Continued use of Masaaq constitutes acceptance of any modifications to the terms and conditions.
 
-Provide, operate, and maintain our website
-Improve, personalize, and expand our website
-Understand and analyze how you use our website
-Develop new products, services, features, and functionality
-Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
-Send you emails
-Find and prevent fraud
-Log Files
-Masaaq follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+8. Data Analysis and Collection:
+Users understand and acknowledge that Masaaq may analyze and collect user data to improve the platform's functionality, personalize user experiences, and provide relevant content and recommendations. Masaaq will handle user data in accordance with its privacy policy.
 
-Cookies and Web Beacons
-Like any other website, Masaaq uses "cookies". These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
+9. Limitations on User Activities:
+Masaaq reserves the right to enforce reasonable limitations on user activities that may disrupt or negatively impact the platform, including but not limited to excessive posting, spamming, unauthorized commercial activities, or any form of malicious behavior. Users found in violation of these limitations may face disciplinary actions, including temporary or permanent suspension from the platform.
 
-Google DoubleClick DART Cookie
-Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – https://policies.google.com/technologies/ads
+10. Reporting Mechanism:
+Masaaq provides a reporting mechanism for users to flag inappropriate or harmful content. Users are encouraged to report any violations of the terms and conditions or any content that they deem inappropriate. Masaaq will review and take appropriate action upon receiving such reports, but does not guarantee immediate removal of reported content.
 
-Our Advertising Partners
-Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
+11. User-Generated Content Disclaimer:
+The content shared by users on Masaaq does not reflect the views or opinions of Masaaq or its administrators. Masaaq is not responsible for validating the accuracy or legitimacy of user-generated content. Users are advised to exercise their own judgment and discretion when engaging with content on the platform.
 
-Google
+12. Cookie Usage:
+Users understand that Masaaq may use cookies or similar tracking technologies to enhance user experience and provide relevant content and advertisements. By using Masaaq, users consent to the use of cookies in accordance with Masaaq's cookie policy.
 
-https://policies.google.com/technologies/ads
+13. Jurisdiction and Disputes:
+Any disputes or claims arising from the use of Masaaq shall be governed by and construed in accordance with the laws of [Jurisdiction]. Users agree to submit to the exclusive jurisdiction of the courts in [Jurisdiction] for the resolution of any such disputes.
 
-Advertising Partners Privacy Policies
-You may consult this list to find the Privacy Policy for each of the advertising partners of Masaaq.
+14. Severability and Entire Agreement:
+In the event that any provision of these terms and conditions is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect. These terms and conditions constitute the entire agreement between users and Masaaq, superseding any previous agreements or understandings, whether written or oral, relating to the subject matter herein.
 
-Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Masaaq, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
-Note that Masaaq has no access to or control over these cookies that are used by third-party advertisers.
 
-Third Party Privacy Policies
-Masaaq's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+15. Content Display and Removal:
+Masaaq reserves the right to display or remove any content shared by users at its sole discretion. While Masaaq strives to maintain the integrity and quality of the platform, it does not guarantee the accuracy, completeness, or reliability of user-generated content.
 
-You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+16. Compliance with Laws:
+Users agree to use Masaaq solely for lawful purposes and to comply with all applicable laws and regulations. Users shall not engage in any illegal activities, including but not limited to copyright infringement, hacking, or the dissemination of harmful or malicious content.
 
-CCPA Privacy Rights (Do Not Sell My Personal Information)
-Under the CCPA, among other rights, California consumers have the right to:
+17. Third-Party Integrations:
+Masaaq may provide users with the option to connect their Masaaq account with other third-party applications or services. Users understand that such integration is subject to the terms and conditions and privacy policies of the respective third-party providers. Masaaq is not responsible for the actions, functionalities, or security of these third-party services.
 
-Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
+18. Communication from Masaaq:
+Masaaq may communicate with users through email, notifications, or other means to provide important updates, announcements, or promotional offers. Users can manage their communication preferences within their account settings or by contacting Masaaq's support team.
 
-Request that a business delete any personal data about the consumer that a business has collected.
+19. Platform Availability:
+Users acknowledge that the availability and functionality of Masaaq may be affected by factors beyond Masaaq's control, including but not limited to internet connectivity, hardware, software, or third-party service interruptions. Masaaq will make reasonable efforts to minimize disruptions but does not guarantee uninterrupted access to the platform.
 
-Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+20. Assignment of Rights:
+Masaaq reserves the right to assign or transfer its rights and obligations under these terms and conditions to a third-party entity, in whole or in part, without prior notice or user consent. Users shall not have the right to assign or transfer their rights and obligations under these terms and conditions without Masaaq's written consent.
+Terms and Conditions for Masaaq - Educational Social Media Platform
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+1. Content Responsibility:
+By using Masaaq, you agree to comply with the following terms and conditions. Masaaq is an educational social media platform that aims to provide a platform for users to share educational content and engage in meaningful discussions. Users are solely responsible for the content they share on Masaaq, including but not limited to text, images, videos, documents, links, and any other media. Users must ensure that the content they share is accurate, reliable, and up-to-date. Masaaq cannot be held responsible for any misinformation or inaccuracies in the shared content.
 
-GDPR Data Protection Rights
-We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+2. User Conduct:
+Users are required to maintain respectful and courteous behavior while using Masaaq. Any form of harassment, hate speech, discrimination, or abusive language towards other users will not be tolerated. Masaaq reserves the right to take necessary actions, including suspension or termination of user accounts, in cases of violations.
 
-The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
+3. Privacy and Security:
+Masaaq is committed to ensuring the privacy and security of its users. Users understand and agree to the collection and use of their personal information as outlined in Masaaq's privacy policy. Masaaq implements reasonable security measures to protect user data, but users acknowledge that no online platform can guarantee 100% security.
 
-The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
+4. Account Responsibility:
+Users are solely responsible for their own accounts. It is the responsibility of users to keep their login credentials confidential and to notify Masaaq immediately in case of any unauthorized access to their accounts. Masaaq will not be held liable for any losses incurred due to unauthorized access or misuse of user accounts.
 
-The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
+5. Third-Party Resources:
+Masaaq may display advertisements, sponsored content, or links to third-party websites for informational or promotional purposes. Users understand and agree that Masaaq is not responsible for the accuracy, availability, or reliability of these third-party resources. Users access such resources at their own risk.
 
-The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
+6. Platform Changes and Disruptions:
+Masaaq reserves the right to modify, suspend, or terminate the platform, features, or services at any time, for any reason, without prior notice. Masaaq will make reasonable efforts to notify users of any significant changes or disruptions to the platform.
 
-The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
+7. Modifications to Terms:
+These terms and conditions are subject to change, and users are encouraged to review them periodically. Continued use of Masaaq constitutes acceptance of any modifications to the terms and conditions.
 
-The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+8. Data Analysis and Collection:
+Users understand and acknowledge that Masaaq may analyze and collect user data to improve the platform's functionality, personalize user experiences, and provide relevant content and recommendations. Masaaq will handle user data in accordance with its privacy policy.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+9. Limitations on User Activities:
+Masaaq reserves the right to enforce reasonable limitations on user activities that may disrupt or negatively impact the platform, including but not limited to excessive posting, spamming, unauthorized commercial activities, or any form of malicious behavior. Users found in violation of these limitations may face disciplinary actions, including temporary or permanent suspension from the platform.
 
-Children's Information
-Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+10. Reporting Mechanism:
+Masaaq provides a reporting mechanism for users to flag inappropriate or harmful content. Users are encouraged to report any violations of the terms and conditions or any content that they deem inappropriate. Masaaq will review and take appropriate action upon receiving such reports, but does not guarantee immediate removal of reported content.
 
-Masaaq does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+11. User-Generated Content Disclaimer:
+The content shared by users on Masaaq does not reflect the views or opinions of Masaaq or its administrators. Masaaq is not responsible for validating the accuracy or legitimacy of user-generated content. Users are advised to exercise their own judgment and discretion when engaging with content on the platform.
 
-Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+12. Cookie Usage:
+Users understand that Masaaq may use cookies or similar tracking technologies to enhance user experience and provide relevant content and advertisements. By using Masaaq, users consent to the use of cookies in accordance with Masaaq's cookie policy.
 
-Our Privacy Policy was created with the help of the Privacy Policy Generator.
+13. Jurisdiction and Disputes:
+Any disputes or claims arising from the use of Masaaq shall be governed by and construed in accordance with the laws of [Jurisdiction]. Users agree to submit to the exclusive jurisdiction of the courts in [Jurisdiction] for the resolution of any such disputes.
 
-Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us
-Masaaq.app@gmail.com
+14. Severability and Entire Agreement:
+In the event that any provision of these terms and conditions is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect. These terms and conditions constitute the entire agreement between users and Masaaq, superseding any previous agreements or understandings, whether written or oral, relating to the subject matter herein.
+
+15. Content Display and Removal:
+Masaaq reserves the right to display or remove any content shared by users at its sole discretion. While Masaaq strives to maintain the integrity and quality of the platform, it does not guarantee the accuracy, completeness, or reliability of user-generated content.
+
+16. Compliance with Laws:
+Users agree to use Masaaq solely for lawful purposes and to comply with all applicable laws and regulations. Users shall not engage in any illegal activities, including but not limited to copyright infringement, hacking, or the dissemination of harmful or malicious content.
+
+
+
+17. Third-Party Integrations:
+Masaaq may provide users with the option to connect their Masaaq account with other third-party applications or services. Users understand that such integration is subject to the terms and conditions and privacy policies of the respective third-party providers. Masaaq is not responsible for the actions, functionalities, or security of these third-party services.
+
+18. Communication from Masaaq:
+Masaaq may communicate with users through email, notifications, or other means to provide important updates, announcements, or promotional offers. Users can manage their communication preferences within their account settings or by contacting Masaaq's support team.
+
+19. Platform Availability:
+Users acknowledge that the availability and functionality of Masaaq may be affected by factors beyond Masaaq's control, including but not limited to internet connectivity, hardware, software, or third-party service interruptions. Masaaq will make reasonable efforts to minimize disruptions but does not guarantee uninterrupted access to the platform.
+
+20. Assignment of Rights:
+Masaaq reserves the right to assign or transfer its rights and obligations under these terms and conditions to a third-party entity, in whole or in part, without prior notice or user consent. Users shall not have the right to assign or transfer their rights and obligations under these terms and conditions without Masaaq's written consent.
+
+21. Binding Nature:
+These terms and conditions are binding on the users and their respective successors, assigns, and legal representatives. Any failure on Masaaq's part to enforce any provision of these terms and conditions shall not be construed as a waiver of that provision or the right to enforce it in the future.
+
+22. Premium Features and Services:
+Masaaq may offer premium features or services for which users may have to pay a fee. The pricing, payment terms, and conditions of these premium features or services will be clearly communicated to users. Masaaq reserves the right to modify or change the pricing and availability of these premium features or services at any time.
+
+23. Targeted Advertisements:
+Users understand that Masaaq may display targeted advertisements based on user preferences, browsing history, and other relevant factors. Masaaq strives to provide relevant and non-intrusive advertisements but does not endorse or guarantee the accuracy, quality, or suitability of the advertised products or services.
+
+
+
+24. Intellectual Property Rights:
+Masaaq respects the intellectual property rights of others and expects users to do the same. If users believe that their intellectual property rights have been infringed upon by content on Masaaq, they are requested to contact Masaaq's designated copyright agent and provide all necessary information for the investigation and resolution of the infringement claim.
+
+25. Contests and Promotions:
+Masaaq may provide opportunities for users to participate in contests, giveaways, or promotional activities. Users understand and agree to comply with the specific terms and conditions of such activities, which may include eligibility requirements, entry deadlines, and the acceptance of additional terms.
+
+26. Data Aggregation and Analysis:
+Users acknowledge that Masaaq may aggregate and analyze anonymous user data for statistical and research purposes. This aggregated data will not include personally identifiable information and will be used to understand user behavior and preferences, improve the platform, and develop new features and functionalities.
+
+27. Third-Party Resources Disclaimer:
+Masaaq is not responsible for any third-party websites, services, or applications that may be accessed through links or advertisements on Masaaq. Users understand and acknowledge that they access these third-party resources at their own risk and are subject to the terms and conditions and privacy policies of the respective third-party providers.
+
+28. Indemnification:
+Users agree to indemnify and hold Masaaq, its affiliates, directors, officers, employees, and agents harmless from any claims, liabilities, damages, losses, or expenses arising out of or in connection with their use of Masaaq, including but not limited to any violation of these terms and conditions.
+
+29. Notices and Communications:
+Any notices or communications from Masaaq to users regarding the platform, updates, modifications to the terms and conditions, or other important matters may be provided through email, notifications, or other means as determined by Masaaq.
+
+30. Termination of Accounts:
+Masaaq retains the right to terminate or suspend user accounts, either temporarily or permanently, for violations of these terms and conditions, including but not limited to repeated breaches, abusive behavior, or non-compliance with platform policies.
+
+31. User Age Requirement:
+Users must confirm that they are of the legal age required to use Masaaq or have obtained necessary parental or guardian consent if they are under the legal age in their jurisdiction.
+
+32. User Content License:
+By sharing content on Masaaq, users grant Masaaq a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, and distribute the content for platform-related purposes.
+
+33. Notification of Changes:
+Masaaq will make reasonable efforts to notify users of any significant changes to these terms and conditions or the platform. Notification methods may include email, platform notifications, or announcements on the Masaaq website.
+
+34. Content Removal Process:
+Masaaq will have a content removal process in place to address reports of inappropriate or harmful content. Users can expect timely reviews of reported content, but the platform cannot guarantee immediate removal.
+
+35. User Assistance:
+Users are encouraged to contact Masaaq's support team for assistance with any account-related issues, technical problems, or questions regarding platform usage.
+
+36. Public Profile Information:
+Users understand that certain profile information, such as usernames and profile pictures, may be publicly visible to other users of the platform, and they should exercise caution when sharing personal information.
+
+37. User Feedback:
+Masaaq welcomes user feedback and suggestions to improve the platform's functionality and user experience. Feedback can be submitted through designated channels provided by Masaaq.
+
+38. Acceptance of Cookies Policy:
+Users explicitly consent to the use of cookies in accordance with Masaaq's cookie policy for tracking and analytics purposes.
+
+39. Notifications from Masaaq:
+Users agree to receive important notifications, updates, and announcements from Masaaq through various communication channels, including email and platform notifications.
+
+40. Force Majeure:
+Masaaq will not be held liable for any disruptions or delays caused by events beyond its control, including but not limited to natural disasters, acts of terrorism, or technical failures.
+
+41. Governing Law and Venue:
+Any legal disputes arising from these terms and conditions shall be governed by the laws of The State of Palestine, and users consent to the exclusive jurisdiction and venue of the courts in The State of Palestine for any legal proceedings.
+
+42. No Agency Relationship:
+These terms and conditions do not establish any agency, partnership, employment, or joint venture relationship between users and Masaaq.
+
+43. Accessibility:
+Masaaq is committed to ensuring that the platform is accessible to individuals with disabilities to the extent required by applicable laws and regulations.
+
+44. Headings:
+The headings used in these terms and conditions are for convenience only and do not affect the interpretation or application of any provision.
+
+45. Contact Information:
+Users can contact Masaaq for inquiries, feedback, or to report issues through the contact information provided on the platform.
+
+46. Effective Date:
+These terms and conditions are effective as of September 9th 2023, governing the use of Masaaq's educational social media platform.
+
+Thank you for using Masaaq as your educational social media platform. We value your commitment to our community and encourage you to reach out if you have any questions, concerns, or suggestions regarding our platform or these terms and conditions.
+
+Best regards,
+
+Masaaq 
+Masaaq.App@gmail.com
+Masaaq.net
+ September 9th 2023
+
+
+
